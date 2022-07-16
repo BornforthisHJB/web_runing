@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web_base/03/base_03.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_base/base_03.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_base/03/base_03-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_base/base_03/base_03-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_base/base_03/base_03-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +61,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.base_03-1.html">
+    <configuration name="base_03-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_runing/web_base/base_03/base_03-1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="base_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_runing/web_base/03/base_03.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.base_03-1.html" />
         <item itemvalue="JavaScript Debug.base_03.html" />
       </list>
     </recent_temporary>
@@ -80,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657903289654</updated>
-      <workItem from="1657903291377" duration="1238000" />
+      <workItem from="1657903291377" duration="2191000" />
     </task>
     <servers />
   </component>
