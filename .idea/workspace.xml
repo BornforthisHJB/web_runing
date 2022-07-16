@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_base/base_03/base_03-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_base/base_03/base_03-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_base/base_03/base_03-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base/base_03" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +57,7 @@
       <recent name="$PROJECT_DIR$/web_base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_base/base_03" />
       <recent name="$PROJECT_DIR$/web_base" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -83,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657903289654</updated>
-      <workItem from="1657903291377" duration="2191000" />
+      <workItem from="1657903291377" duration="2518000" />
     </task>
     <servers />
   </component>
