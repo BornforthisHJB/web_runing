@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tester/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_03/base_03-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base/base_03" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -94,7 +95,7 @@
       <workItem from="1658454592888" duration="535000" />
       <workItem from="1659365340868" duration="700000" />
       <workItem from="1659366087279" duration="194000" />
-      <workItem from="1659366288949" duration="225000" />
+      <workItem from="1659366288949" duration="775000" />
     </task>
     <servers />
   </component>
