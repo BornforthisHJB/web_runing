@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web_base/base_03/base_03-4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +51,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web_base/03" />
-      <recent name="$PROJECT_DIR$/web_base" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web_base/base_03" />
       <recent name="$PROJECT_DIR$/web_base" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_base/03" />
+      <recent name="$PROJECT_DIR$/web_base" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.base_03-1.html">
@@ -84,7 +83,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657903289654</updated>
-      <workItem from="1657903291377" duration="3228000" />
+      <workItem from="1657903291377" duration="3795000" />
+      <workItem from="1658118363109" duration="242000" />
+      <workItem from="1658321747439" duration="1299000" />
+      <workItem from="1658454592888" duration="535000" />
     </task>
     <servers />
   </component>
@@ -101,5 +103,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
