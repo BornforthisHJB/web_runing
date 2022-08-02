@@ -39,7 +39,7 @@ def save_md(path_lst):
 ```\n
     """
     for path in path_lst:
-        with open("README.md", "a+", encoding="utf-8") as f:
+        with open("README.md", "w+", encoding="utf-8") as f:
             content = template.format(BASE_URL + path)
             f.write(content)
 
