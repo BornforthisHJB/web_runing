@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="" />
+    <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_base/base_03/base_03-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_base/base_03/base_03-8.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +51,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base/base_03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/base_03/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/base_03/img" />
       <recent name="$PROJECT_DIR$/web_base/base_03" />
       <recent name="$PROJECT_DIR$/web_base" />
       <recent name="$PROJECT_DIR$" />
@@ -93,7 +97,7 @@
       <workItem from="1659365340868" duration="700000" />
       <workItem from="1659366087279" duration="194000" />
       <workItem from="1659366288949" duration="2695000" />
-      <workItem from="1659400294495" duration="4879000" />
+      <workItem from="1659400294495" duration="5027000" />
     </task>
     <servers />
   </component>
