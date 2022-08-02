@@ -43,8 +43,18 @@ def save_md(path_lst):
             content = template.format(BASE_URL + path)
             f.write(content)
 
+def pull():
+    os.system("sh aiyc.sh")
 
-if __name__ == '__main__':
+
+
+
+def main():
     r = path_split()
     print(len(r))
     save_md(r)
+    pull()
+
+
+if __name__ == '__main__':
+    main()
