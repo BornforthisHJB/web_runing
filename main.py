@@ -25,7 +25,7 @@ def path_split():
                     string = path[0] + "/" + i
                     # print(result)
                     result = suffix(string)
-                    # print(result)
+                    print(result)
                     if result is not None:
                         result_lst.append(result)
     return result_lst

@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/web_base" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.base_03-1.html">
+  <component name="RunManager" selected="Python.main">
     <configuration name="base_03-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_runing/web_base/base_03/base_03-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -122,6 +122,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
