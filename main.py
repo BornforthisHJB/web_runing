@@ -22,7 +22,7 @@ def path_split():
             if path[2]:
                 # print(path)
                 for i in path[2]:
-                    string = path[0] + i
+                    string = path[0] + "/" + i
                     # print(result)
                     result = suffix(string)
                     # print(result)
