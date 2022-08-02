@@ -95,6 +95,11 @@ https://bornforthis.cn/web_runing/web_base/base_06/index.html
 
     
 ```link
+https://bornforthis.cn/web_runing/web_base/base_06/base_06.html
+```
+
+    
+```link
 https://bornforthis.cn/web_runing/web_base/base_06/img/dog.jpg
 ```
 
