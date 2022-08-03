@@ -1,7 +1,7 @@
 import os
 
 BASE_URL = "https://bornforthis.cn/web_runing/"
-path_lst = ["data", "web_base"]
+path_lst = ["data", "web_base", "crawler"]
 
 
 def suffix(string: str):
