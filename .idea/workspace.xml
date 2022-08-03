@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crawler/regex/data/mp3/但愿人长久邓丽君.m4a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/regex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/regex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/demo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/crawler/regex/data/mp3" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -112,7 +114,10 @@
       <workItem from="1659365340868" duration="700000" />
       <workItem from="1659366087279" duration="194000" />
       <workItem from="1659366288949" duration="2695000" />
-      <workItem from="1659400294495" duration="14425000" />
+      <workItem from="1659400294495" duration="14499000" />
+      <workItem from="1659504037446" duration="7000" />
+      <workItem from="1659504056004" duration="24000" />
+      <workItem from="1659504570871" duration="608000" />
     </task>
     <servers />
   </component>
