@@ -120,6 +120,16 @@ https://bornforthis.cn/web_runing/web_base/base_08/base_08-2.html
 
     
 ```link
+https://bornforthis.cn/web_runing/web_base/base_08/base_08-3.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/web_base/base_08/img/img.png
+```
+
+    
+```link
 https://bornforthis.cn/web_runing/crawler/regex/index.html
 ```
 
