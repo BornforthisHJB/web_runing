@@ -110,6 +110,31 @@ https://bornforthis.cn/web_runing/web_base/base_03/base_03-1.html
 
     
 ```link
+https://bornforthis.cn/web_runing/web_base/base_13/02/index.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/web_base/base_13/02/base_13-2.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/web_base/base_13/02/img/dog.jpg
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/web_base/base_13/02/img/pic3.jpg
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/web_base/base_13/02/img/pic2.png
+```
+
+    
+```link
 https://bornforthis.cn/web_runing/web_base/base_13/01/index.html
 ```
 
