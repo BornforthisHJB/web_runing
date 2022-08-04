@@ -20,6 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/base_13-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/img/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/img/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/img/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/script/first_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_base/base_13/01/styles/css1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +59,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base/base_10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_base/base_13" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_base/base_13" />
+      <recent name="$PROJECT_DIR$/web_base" />
+      <recent name="$PROJECT_DIR$/data/base_09" />
       <recent name="$PROJECT_DIR$/web_base/base_10" />
       <recent name="$PROJECT_DIR$/web_base/base_08/img" />
-      <recent name="$PROJECT_DIR$/web_base/base_08" />
-      <recent name="$PROJECT_DIR$/crawler/regex/data/mp3" />
-      <recent name="$PROJECT_DIR$/web_base/base_06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_base/base_13/01" />
       <recent name="$PROJECT_DIR$/web_base/03" />
       <recent name="$PROJECT_DIR$/web_base" />
     </key>
@@ -119,7 +127,7 @@
       <workItem from="1659504056004" duration="24000" />
       <workItem from="1659504570871" duration="2430000" />
       <workItem from="1659522786888" duration="51000" />
-      <workItem from="1659586379442" duration="7470000" />
+      <workItem from="1659586379442" duration="8058000" />
     </task>
     <servers />
   </component>
