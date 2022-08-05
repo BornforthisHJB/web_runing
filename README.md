@@ -25,6 +25,11 @@ https://bornforthis.cn/web_runing/data/base_09/base_09.zip
 
     
 ```link
+https://bornforthis.cn/web_runing/data/base_06/base_06.zip
+```
+
+    
+```link
 https://bornforthis.cn/web_runing/web_base/base_10/base_10-1.html
 ```
 
