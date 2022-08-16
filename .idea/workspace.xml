@@ -49,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/base_13" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/base_06" />
       <recent name="$PROJECT_DIR$/data/base_13" />
       <recent name="$PROJECT_DIR$/web_base/base_13/02" />
       <recent name="$PROJECT_DIR$/web_base/base_13" />
       <recent name="$PROJECT_DIR$/web_base" />
-      <recent name="$PROJECT_DIR$/data/base_09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web_base/base_13/01" />
@@ -121,6 +122,10 @@
       <workItem from="1659504570871" duration="2430000" />
       <workItem from="1659522786888" duration="51000" />
       <workItem from="1659586379442" duration="9356000" />
+      <workItem from="1659665410685" duration="1426000" />
+      <workItem from="1659853330088" duration="109000" />
+      <workItem from="1659853554795" duration="11000" />
+      <workItem from="1660636991069" duration="18000" />
     </task>
     <servers />
   </component>
@@ -137,6 +142,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
