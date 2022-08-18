@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/2022/06/居民对素食环保的认知度调查(1).xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -55,18 +56,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/pyechars/02",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/blog/2022/06",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/2022/06" />
       <recent name="$PROJECT_DIR$/pyechars/02" />
       <recent name="$PROJECT_DIR$/data/base_06" />
       <recent name="$PROJECT_DIR$/data/base_13" />
       <recent name="$PROJECT_DIR$/web_base/base_13/02" />
-      <recent name="$PROJECT_DIR$/web_base/base_13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web_base/base_13/01" />
@@ -128,7 +129,8 @@
       <workItem from="1659853330088" duration="109000" />
       <workItem from="1659853554795" duration="11000" />
       <workItem from="1660636991069" duration="18000" />
-      <workItem from="1660637016657" duration="88000" />
+      <workItem from="1660637016657" duration="1397000" />
+      <workItem from="1660807337297" duration="38000" />
     </task>
     <servers />
   </component>
