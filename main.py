@@ -6,7 +6,7 @@ path_lst = ["data", "web_base", "crawler", "pyechars", "blog"]
 
 def suffix(string: str):
     postfix = string.split(".")
-    postfix_lst = ["html", "png", "jpg", "jpge", "zip"]
+    postfix_lst = ["html", "png", "jpg", "jpge", "zip", "xlsx"]
     if postfix[-1] in postfix_lst:
         return string
     else:

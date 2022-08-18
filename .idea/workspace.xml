@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/2022/06/居民对素食环保的认知度调查(1).xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -130,7 +129,7 @@
       <workItem from="1659853554795" duration="11000" />
       <workItem from="1660636991069" duration="18000" />
       <workItem from="1660637016657" duration="1397000" />
-      <workItem from="1660807337297" duration="38000" />
+      <workItem from="1660807337297" duration="124000" />
     </task>
     <servers />
   </component>
