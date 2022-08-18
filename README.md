@@ -220,7 +220,7 @@ https://bornforthis.cn/web_runing/pyechars/02/render.html
 
     
 ```link
-https://bornforthis.cn/web_runing/blog/2022/06/居民对素食环保的认知度调查(1).xlsx
+https://bornforthis.cn/web_runing/blog/2022/06/居民对素食环保的认知度调查.xlsx
 ```
 
     
