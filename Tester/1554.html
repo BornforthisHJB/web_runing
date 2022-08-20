@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)https://class.imooc.com/lesson/1554#mid=35390 -->
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title></title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font: 14px/1.4 Microsoft YaHei, SimSun, Arial;
+        }
+
+        .errorwarp {
+            padding-top: 100px;
+            text-align: center;
+        }
+
+        p {
+            line-height: 94px;
+            font-size: 18px;
+            color: #14191e;
+        }
+
+        a {
+            font-size: 18px;
+            color: #f01414;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-decoration: none;
+        }
+
+        .feedback {
+            font-size: 14px;
+            margin-top: 38px;
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            var jsreferrer = document.getElementById('jsreferrer');
+            var referrer = document.referrer;
+            var url = '';
+
+            if (referrer) {
+                url = referrer.split('//')[1].split('/')[0];
+            }
+
+            if (url == 'https://bornforthis.cn/' || url == 'https://bornforthis.cn/' || url == 'https://bornforthis.cn/' || url == 'https://bornforthis.cn/') {
+                jsreferrer.setAttribute('href', document.referrer)
+                jsreferrer.innerHTML = '返回上一页';
+            }
+        }
+    </script>
+
+</head>
+<body>
+
+<div class="errorwarp">
+    <img src="./1554_files/401.png">
+    <p>禁止访问此页</p>
+    <a href="https://bornforthis.cn/" id="jsreferrer">返回上一页</a>
+    <a href="mailto:bornforthis@bornforthis.cn" class="feedback">向我们反馈错误</a>
+</div>
+
+
+</body>
+</html>

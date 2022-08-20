@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tester/1554.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/1554_files/401.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -55,18 +57,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/blog/2022/06",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/Tester",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tester" />
       <recent name="$PROJECT_DIR$/blog/2022/06" />
       <recent name="$PROJECT_DIR$/pyechars/02" />
       <recent name="$PROJECT_DIR$/data/base_06" />
       <recent name="$PROJECT_DIR$/data/base_13" />
-      <recent name="$PROJECT_DIR$/web_base/base_13/02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web_base/base_13/01" />
@@ -129,7 +131,9 @@
       <workItem from="1659853554795" duration="11000" />
       <workItem from="1660636991069" duration="18000" />
       <workItem from="1660637016657" duration="1397000" />
-      <workItem from="1660807337297" duration="124000" />
+      <workItem from="1660807337297" duration="822000" />
+      <workItem from="1660918594998" duration="598000" />
+      <workItem from="1660982896438" duration="777000" />
     </task>
     <servers />
   </component>
