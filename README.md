@@ -239,3 +239,23 @@ https://bornforthis.cn/web_runing/Tester/1554_files/401.png
 ```
 
     
+```link
+https://bornforthis.cn/web_runing/video_cloumn/index.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/video_cloumn/src/img/1649210327-1a30804f0ba6395.png
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/video_cloumn/src/img/favicon.png
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/video_cloumn/src/img/logo.png
+```
+
+    

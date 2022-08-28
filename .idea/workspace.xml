@@ -20,36 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video_cloumn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/zhushidiaode.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/g" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/1649210327-1a30804f0ba6395.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/thumb-ing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/DPlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/clipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/comment-reply.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/hls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/hm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/jarallax-video.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/jarallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/spotlight.bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/img",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/webfonts",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -92,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video_cloumn/src/webfonts" />
       <recent name="$PROJECT_DIR$/video_cloumn/src/img" />
       <recent name="$PROJECT_DIR$/video_cloumn/PR全攻略：零基础入门视频剪辑-小唐在画画_files" />
       <recent name="$PROJECT_DIR$/video_cloumn" />
       <recent name="$PROJECT_DIR$/Tester" />
-      <recent name="$PROJECT_DIR$/blog/2022/06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/video_cloumn/src/css" />
@@ -164,7 +136,7 @@
       <workItem from="1660807337297" duration="822000" />
       <workItem from="1660918594998" duration="598000" />
       <workItem from="1660982896438" duration="1395000" />
-      <workItem from="1661662118749" duration="3524000" />
+      <workItem from="1661662118749" duration="4054000" />
     </task>
     <servers />
   </component>
