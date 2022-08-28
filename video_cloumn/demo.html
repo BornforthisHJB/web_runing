@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>JS网页加密及解密</title>
+    <meta name="author" content="YZMCMS"/>
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+
+</head>
+
+<body>
+<p><input id="text1" name="key" value="这是要加密的文本内容"/></p>
+<input type="button" name="Button1" value="加密" onClick="text1.value = MySign.Encrypt(text1.value);">
+<input type="button" name="Button2" value="解密" onClick="text1.value = MySign.UnEncrypt(text1.value);">
+
+<script language="JavaScript">
+
+    var MySign = {
+        //加密/解密次数
+        num: 0,
+        //加密
+        Encrypt: function (Text) {
+            this.num = this.num + 1;
+            output = new String;
+            alterText = new Array();
+            varCost = new Array();
+            TextSize = Text.length;
+            for (i = 0; i < TextSize; i++) {
+                idea = Math.round(Math.random() * 111) + 77;
+                alterText[i] = Text.charCodeAt(i) + idea;
+                varCost[i] = idea;
+            }
+            for (i = 0; i < TextSize; i++) {
+                output += String.fromCharCode(alterText[i], varCost[i]);
+            }
+            //text1.value = output;
+            return output;
+        },
+
+        //解密
+        UnEncrypt: function (Text) {
+            if (this.num > 0) {
+                this.num = this.num - 1;
+                output = new String;
+                alterText1 = new Array();
+                varCost1 = new Array();
+                TextSize = Text.length;
+                for (i = 0; i < TextSize; i++) {
+                    alterText[i] = Text.charCodeAt(i);
+                    varCost[i] = Text.charCodeAt(i + 1);
+                }
+                for (i = 0; i < TextSize; i = i + 2) {
+                    output += String.fromCharCode(alterText[i] - varCost[i]);
+                }
+                //text1.value = output;
+                return output;
+            }
+        }
+    };
+</script>
+
+</body>
+</html>

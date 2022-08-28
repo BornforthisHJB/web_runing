@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/video_cloumn/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/playing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/webfonts/fa-regular-400.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_cloumn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_cloumn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_cloumn/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/video_cloumn/src/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +61,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/webfonts",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/css",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -64,11 +73,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/video_cloumn/src/webfonts" />
+      <recent name="$PROJECT_DIR$/video_cloumn/src/css" />
       <recent name="$PROJECT_DIR$/video_cloumn/src/img" />
+      <recent name="$PROJECT_DIR$/video_cloumn/src/webfonts" />
       <recent name="$PROJECT_DIR$/video_cloumn/PR全攻略：零基础入门视频剪辑-小唐在画画_files" />
       <recent name="$PROJECT_DIR$/video_cloumn" />
-      <recent name="$PROJECT_DIR$/Tester" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/video_cloumn/src/css" />
@@ -78,11 +87,14 @@
       <recent name="$PROJECT_DIR$/web_base/03" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.base_03-1.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="base_03-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_runing/web_base/base_03/base_03-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="base_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_runing/web_base/03/base_03.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web_runing/video_cloumn/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -106,6 +118,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -136,7 +153,8 @@
       <workItem from="1660807337297" duration="822000" />
       <workItem from="1660918594998" duration="598000" />
       <workItem from="1660982896438" duration="1395000" />
-      <workItem from="1661662118749" duration="4054000" />
+      <workItem from="1661662118749" duration="6298000" />
+      <workItem from="1661687779969" duration="686000" />
     </task>
     <servers />
   </component>
