@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video_cloumn/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/css/my5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/img/playing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_cloumn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_cloumn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_cloumn/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/video_cloumn/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/bootstrap.min.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/css",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/js",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -73,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video_cloumn/src/js" />
       <recent name="$PROJECT_DIR$/video_cloumn/src/css" />
       <recent name="$PROJECT_DIR$/video_cloumn/src/img" />
       <recent name="$PROJECT_DIR$/video_cloumn/src/webfonts" />
       <recent name="$PROJECT_DIR$/video_cloumn/PR全攻略：零基础入门视频剪辑-小唐在画画_files" />
-      <recent name="$PROJECT_DIR$/video_cloumn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/video_cloumn/src/css" />
@@ -154,7 +145,7 @@
       <workItem from="1660918594998" duration="598000" />
       <workItem from="1660982896438" duration="1395000" />
       <workItem from="1661662118749" duration="6298000" />
-      <workItem from="1661687779969" duration="686000" />
+      <workItem from="1661687779969" duration="1316000" />
     </task>
     <servers />
   </component>
