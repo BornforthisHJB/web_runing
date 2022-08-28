@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/defualt_video_player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_cloumn/src/js/jarallax-video.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_cloumn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_cloumn/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,7 @@
         <option value="Python Script" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -145,7 +149,7 @@
       <workItem from="1660918594998" duration="598000" />
       <workItem from="1660982896438" duration="1395000" />
       <workItem from="1661662118749" duration="6298000" />
-      <workItem from="1661687779969" duration="1316000" />
+      <workItem from="1661687779969" duration="2157000" />
     </task>
     <servers />
   </component>
