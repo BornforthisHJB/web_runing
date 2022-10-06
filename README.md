@@ -1,5 +1,10 @@
 
 ```link
+https://bornforthis.cn/web_runing/FAQ/01-HTML图片并排显示/index.html
+```
+
+    
+```link
 https://bornforthis.cn/web_runing/data/base_03/img/base-03-02.jpg
 ```
 
@@ -241,6 +246,16 @@ https://bornforthis.cn/web_runing/Tester/1554_files/401.png
     
 ```link
 https://bornforthis.cn/web_runing/video_cloumn/index.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/video_cloumn/copy.html
+```
+
+    
+```link
+https://bornforthis.cn/web_runing/video_cloumn/demo.html
 ```
 
     
