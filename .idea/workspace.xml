@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f51ec982-78e1-4e90-9432-180ef1839d73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FQA/01-HTML图片并排显示/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSite/web_runing/video_cloumn/src/js",
+    "last_opened_file_path": "/Users/huangjiabao/GitHub/WebSites/web_runing",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -147,6 +149,7 @@
       <workItem from="1660982896438" duration="1395000" />
       <workItem from="1661662118749" duration="6298000" />
       <workItem from="1661687779969" duration="13305000" />
+      <workItem from="1665023308376" duration="270000" />
     </task>
     <servers />
   </component>
